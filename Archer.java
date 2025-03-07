@@ -1,6 +1,6 @@
 public class Archer implements Character {
-    private String name;
-    private int health;
+   String name;
+   int health;
 
     public Archer(String name) {
         this.name = name;
